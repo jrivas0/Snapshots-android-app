@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para el Tema Claro -->
+    <color name="colorPrimaryLight">#008B8B</color> <!-- Aguamarina Oscura -->
+    <color name="colorPrimaryVariantLight">#006666</color> <!-- Aguamarina más oscura -->
+    <color name="colorSecondaryLight">#A0522D</color> <!-- Sienna -->
+    <color name="colorBackgroundLight">#FFFFFF</color> <!-- Blanco -->
+    <color name="colorOnPrimaryLight">#FFFFFF</color> <!-- Blanco -->
+    <color name="colorOnSecondaryLight">#FFFFFF</color> <!-- Blanco -->
+
+    <!-- Colores para el Tema Oscuro -->
+    <color name="colorPrimaryDark">#008B8B</color> <!-- Aguamarina Oscura -->
+    <color name="colorPrimaryVariantDark">#006666</color> <!-- Aguamarina más oscura -->
+    <color name="colorSecondaryDark">#A0522D</color> <!-- Sienna -->
+    <color name="colorBackgroundDark">#121212</color> <!-- Negro -->
+    <color name="colorOnPrimaryDark">#FFFFFF</color> <!-- Blanco -->
+    <color name="colorOnSecondaryDark">#000000</color> <!-- Negro -->
+</resources>
